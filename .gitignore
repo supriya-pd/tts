@@ -1,0 +1,13 @@
+etc/
+asset/
+LJSpeech-1.1/
+corpora/
+fig/
+logdir/
+samples/
+results/
+mags/
+mels/
+*.pyc
+_*
+*~

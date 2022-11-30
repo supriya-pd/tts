@@ -1,0 +1,3 @@
+#!d:\supriyacollege\sem7\tacotron-master\vev\scripts\python.exe
+from numba.pycc import main
+main()
